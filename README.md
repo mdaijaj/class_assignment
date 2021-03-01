@@ -11,11 +11,11 @@ if you are using linux operating syemtem <br>
 `nodemon server.js`
 
 ## There are some api url:-
-1.api:- <br>
+1.post_class api:-
 - `localhost:3000/post_class`
-2.api <br>
+2.all future_class on time
 - `localhost:3000/future_class_list?start_time=1614571372000`
-3.api <br>
+3.all_api filter base on title or descriptioin or time
 - `localhost:3000/class_list?start_time=1614571372000&end_time=1614744172000`
 
 
